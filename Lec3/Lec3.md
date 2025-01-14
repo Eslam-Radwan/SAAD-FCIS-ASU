@@ -132,16 +132,7 @@
 
 ### Key Types of Non-Functional Requirements
 
-- Performance  
-- Scalability  
-- Portability  
-- Usability  
-- Compatibility  
-- Localization  
-- Reliability  
-- Security  
-- Maintainability  
-- Availability  
+![F-1](figures/f-1.png)
 
 ---
 
@@ -212,15 +203,15 @@
 
 **Elicitation Techniques:**  
 1. **Traditional Methods:**  
-   - Interviewing and Listening  
-   - Interviewing Groups  
-   - Survey and Questionnaire  
-   - Ethnography (Directly Observing Users)  
-   - Analyzing Procedures and Other Documents  
+	- Interviewing and Listening  
+	- Interviewing Groups  
+	- Survey and Questionnaire  
+	- Ethnography (Directly Observing Users)  
+	- Analyzing Procedures and Other Documents  
 
 2. **Modern Methods:**  
-   - Joint Application Design  
-   - Prototyping  
+	- Joint Application Design  
+	- Prototyping  
 
 ---
 
@@ -253,10 +244,12 @@
 ### Stakeholder Matrix
 
 - Maps the level of stakeholder influence against the level of impact on the stakeholder.  
+- ![F-2](figures/f-2.png)
+- ![F-3](figures/f-3.png)
 
-| **Influence of Stakeholder** | **Impact on Stakeholder** |
-|------------------------------|---------------------------|
-| High: Ensure stakeholder remains satisfied. | Work closely with stakeholder to ensure that they are in agreement with and support the change. |
+| **Influence of Stakeholder**                                           | **Impact on Stakeholder**                                                                             |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| High: Ensure stakeholder remains satisfied.                            | Work closely with stakeholder to ensure that they are in agreement with and support the change.       |
 | Monitor to ensure stakeholders' interest or influence does not change. | Keep informed; stakeholder is likely to be very concerned and may feel anxious about lack of control. |
 
 ---
@@ -312,37 +305,9 @@
 ---
 
 ### Mind Map - Example
-
-- **Stakeholders**  
-- **Requirements**  
-- **Project Partners**  
-- **Who?**  
-- **What?**  
-- **Business Rules**  
-- **Business Case**  
-- **Why?**  
-- **Project X**  
-- **Where?**  
-- **Locations**  
-- **Solutions**  
-- **Project Timelines**  
-- **Methods**  
-- **How?**  
-- **When?**  
-
----
-
-### Mind Map - Example 2
-
-- **50 Active Users**  
-- **System Users**  
-- **200 Downstream/Data Users**  
-- **Project Sponsors**  
-- **Who?**  
-- **Project Partners**  
-- **Implementation Partners**  
-- **Operations Support Team**  
-
+ - ![F-4](figures/f-4.png)
+ - ![F-5](figures/f-5.png)
+ - ![F-6](figures/f-6.png)
 ---
 
 ## Sources
@@ -353,7 +318,3 @@
 ---
 
 ## Thank You
-
---- 
-
-This reformatted text retains all the original content, replaces figures with "[FIGURE]", and organizes the information into bullet points and tables for easier readability.
