@@ -14,9 +14,9 @@ deepseek:
 
 ## Lectures 
 
-- Lec1
-- Lec2
-- Lec3
+- [Lec1](Lec1.md)
+- [Lec2](Lec2.md)
+- [Lec3](Lec3.md)
 ## Course Content
 
 1. **Introduction to SDLC and Business Analysis Basic Concepts**
