@@ -1,14 +1,11 @@
-I have used deepseek and chatgpt to convert lectures to markdown representation 
-here the used prompts 
+# System Analysis and Design Lectures Extraction
+
+- I have used [deepseek](https://www.deepseek.com/) to convert lectures to markdown representation.
+
+## Here is the used prompt:
 
 ```
-deepseek:
-
-1- Extract all text without removing any content. Replace all figures or images with the word '[FIGURE]', and ensure the formatting remains consistent and easily readable.
-
-2- format while keeping all figures and add bullet points and comparison tables if needed
-
-3- reformat while keeping everything
+Extract all text without removing any content. Replace all figures or images with the word '[FIGURE]', and ensure the formatting remains consistent and easily readable. and format while keeping all figures and add bullet points and comparison tables if needed and reformat while keeping everything
 
 ```
 
