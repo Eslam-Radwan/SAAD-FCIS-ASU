@@ -309,7 +309,12 @@
  - ![F-5](figures/f-5.png)
  - ![F-6](figures/f-6.png)
 ---
+## Mind Map
 
+
+![](figures/MM.png)
+
+---
 ## Sources
 
 - **Modern System Analysis and Design, Fourth Edition**, Joseph S. Valacich, Joey F. George, Jeffrey A. Hoffer.  
