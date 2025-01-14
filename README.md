@@ -15,6 +15,12 @@ Extract all text without removing any content. Replace all figures or images wit
 - [Lec2](Lec2/Lec2.md)
 - [Lec3](Lec3/Lec3.md)
 - [Lec4](Lec4/Lec4.md)
+- [Lec5](Lec5/Lec5.md)
+- [Lec6](Lec6/Lec6.md)
+- [Lec7](Lec7/Lec7.md)
+- [Lec8](Lec8/Lec8.md)
+- [Lec9](Lec9/Lec9.md)
+- [Lec10](Lec10/Lec10.md)
 ## Course Content
 
 1. **Introduction to SDLC and Business Analysis Basic Concepts**
